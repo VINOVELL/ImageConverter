@@ -7,7 +7,7 @@
 <h1 align="center">✨ Ren'Py Image Converter ✨</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/7XZJz9G.png" alt="Ren'Py Image Converter Preview" width="600">
+  <img src="https://i.imgur.com/i061IDa.png" alt="Ren'Py Image Converter Preview" width="600">
 </p>
 
 ## 🚀 О проекте
